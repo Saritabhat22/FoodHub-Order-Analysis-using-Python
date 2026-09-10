@@ -12,6 +12,6 @@ Exploratory Data Analysis (EDA)
 Univariate Analysis
 Bivariate Analysis
 
-**Notes on This Repository**
-
-This project was completed as coursework during the Post Graduate Program in Data Science and Business Analytics (Great Learning / UT Austin). It is shared here to showcase applied data analysis skills using Python.
+## Contact
+https://www.linkedin.com/in/sarita-bhat-b2a85b14
+https://www.github.com/Saritabhat22
